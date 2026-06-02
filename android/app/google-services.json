@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604035445374",
+    "project_id": "fir-series-2560d",
+    "storage_bucket": "fir-series-2560d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604035445374:android:816da7c0cd5c808c329e2f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_setup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YGYoIeX7GTOF0qKzv21UNpe1u3uf-wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
