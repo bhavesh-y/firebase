@@ -47,7 +47,7 @@ class _OTPScreenState extends State<OTPScreen> {
                     context,
                     MaterialPageRoute(
                       builder: (context) =>
-                          const MyHomePage(title: "My home Page"),
+                          const MyApp(),
                     ),
                   );
                 }
